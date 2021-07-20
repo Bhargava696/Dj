@@ -1,0 +1,50 @@
+body {
+    background-size: cover;
+}
+
+.clastinmodium {
+    font-size: 25px;
+    width: 100%;
+    margin: 0;
+}
+
+.spartin {
+    float: left;
+}
+
+.imaseritin {
+    width: 210px;
+    border-radius: 100px;
+}
+
+#speed {
+    font-size: 20px;
+    margin: 13px;
+    color: azure;
+    background-color: crimson;
+    border-radius: 50px;
+}
+
+.volume {
+    float: right;
+}
+
+#volume{
+    font-size: 20px;
+    margin: 13px;
+    color: azure;
+    background-color:rgb(20, 149, 255);
+    border-radius: 50px;
+}
+
+.design{
+    width: 110px;
+    font-size: 25px;
+    margin: 13px;
+}
+
+canvas {
+    border: 3px solid white;
+    border-radius: 50px;
+    box-shadow: 5px 10px 15px grey;
+}
